@@ -12,4 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamin12&layout=compact)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamin12&show_icons=true&theme=radical)
